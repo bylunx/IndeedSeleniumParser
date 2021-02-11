@@ -1,0 +1,21 @@
+{
+  "name": "indeedselenium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "seleniumtest.js",
+  "scripts": {
+    "start": "node seleniumtest.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0",
+    "puppeteer": "^7.0.4",
+    "selenium-webdriver": "^4.0.0-alpha.8"
+  },
+  "devDependencies": {
+    "eslint": "^7.19.0",
+    "eslint-plugin-react": "^7.22.0"
+  }
+}
